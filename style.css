@@ -1,0 +1,140 @@
+body {
+  border: 3px solid black;
+  width: 670px;
+  height: 291px;
+  margin: 0 auto;
+  margin-top: 15px;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #c5c1c1;
+  height: 40px;
+}
+
+h1 {
+  font-size: 16px;
+  text-align: center;
+  padding-top: 10px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+h2 {
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+header p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 15px;
+  background-color: red;
+  width: 50px;
+  height: 25px;
+  position: absolute;
+  top: -11px;
+  left: 170px;
+}
+
+.arg {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0;
+  padding-right: 90px;
+}
+
+.exp {
+  color: darkgrey;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+main {
+  display: flex;
+  gap: 20px;
+}
+.slg {
+  text-decoration: underline;
+}
+
+.space {
+  margin-top: 3px;
+}
+
+.prix {
+  margin-top: 30px;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+  height: 35px;
+  width: 670px;
+  
+}
+
+#car {
+  display: flex;
+  gap: 7px;
+}
+
+#car1 {
+  border: none;
+  height: 14px;
+  width: 14px;
+  background-color: black;
+}
+
+#car2 {
+  border: none;
+  height: 14px;
+  width: 14px;
+  background-color: blue;
+}
+
+#car3 {
+  border: none;
+  height: 14px;
+  width: 14px;
+  background-color: red;
+}
+
+#car4 {
+  border: none;
+  height: 14px;
+  width: 14px;
+  background-color: yellow;
+}
+
+#car5 {
+  border: none;
+  height: 14px;
+  width: 14px;
+  background-color: green;
+}
+
+#car6 {
+  border: none;
+  height: 14px;
+  width: 14px;
+  background-color: maroon;
+}
+
+ul {
+  padding: 5px;
+}
+
+li{
+    list-style-type: square;
+}
+
